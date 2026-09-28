@@ -1,0 +1,14 @@
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/bin/Debug/net10.0/FigurasApp
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/bin/Debug/net10.0/FigurasApp.deps.json
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/bin/Debug/net10.0/FigurasApp.runtimeconfig.json
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/bin/Debug/net10.0/FigurasApp.dll
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/bin/Debug/net10.0/FigurasApp.pdb
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/obj/Debug/net10.0/FigurasApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/obj/Debug/net10.0/FigurasApp.AssemblyInfoInputs.cache
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/obj/Debug/net10.0/FigurasApp.AssemblyInfo.cs
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/obj/Debug/net10.0/FigurasApp.csproj.CoreCompileInputs.cache
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/obj/Debug/net10.0/FigurasApp.dll
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/obj/Debug/net10.0/refint/FigurasApp.dll
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/obj/Debug/net10.0/FigurasApp.pdb
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/obj/Debug/net10.0/FigurasApp.genruntimeconfig.cache
+/Users/jossm/Desktop/Progra U/POO/c#/FigurasApp/obj/Debug/net10.0/ref/FigurasApp.dll
